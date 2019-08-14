@@ -1,4 +1,4 @@
-# AC-iOS-Multiple-MVC
+# Pursuit-Core-iOS-Multiple-MVC
 
 ![video](/seguesVideo.gif)
 
